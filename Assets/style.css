@@ -1,0 +1,16 @@
+h1{
+    color: aquamarine;
+}
+
+img{
+    width:100%;
+}
+
+.Portafolio{
+    max-width: 700px;
+    margin: auto;
+    
+}
+.Portafolio_info{
+    text-align: center;
+}
